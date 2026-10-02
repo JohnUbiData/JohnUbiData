@@ -1,4 +1,4 @@
-# Hi, I'm John Ubi 👋
+# Hi there, I'm John 👋
 
 ### Data Analyst | Power BI | SQL | Excel
 
