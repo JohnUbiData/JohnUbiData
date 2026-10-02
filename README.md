@@ -1,8 +1,6 @@
 # Hi there, I'm John 👋
 
-### Data Analyst | Power BI | SQL | Excel
-
-I turn raw data into clear insights that support better business decisions.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=7C3AED&center=false&vCenter=true&width=500&lines=Excel+%7C+Power+BI+%7C+SQL;Data+Analyst+%7C+Business+Intelligence;Turning+data+into+actionable+insights)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-johnubi.vercel.app-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://johnubi.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-John%20Ubi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-ubi-858911292)
