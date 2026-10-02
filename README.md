@@ -80,7 +80,7 @@ A Power BI analysis exploring customer demographics, ordering behavior, customer
 
 ## 🌐 Let's Connect
 
-I'm open to opportunities where I can apply my analytical skills, continue learning, and contribute to data driven decision making.Have a role, project, or dataset you'd like a second set of eyes on? I'd love to hear from you.
+I'm open to opportunities where I can apply my analytical skills, continue learning, and contribute to data driven decision making. Have a role, project, or dataset you'd like a second set of eyes on? I'd love to hear from you.
 
 [![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://johnubi.vercel.app)
 
