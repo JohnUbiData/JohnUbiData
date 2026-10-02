@@ -10,9 +10,9 @@
 
 ## 👋 About Me
 
-I'm John Ubi, a Certified Data Analyst passionate about turning raw, complex data into clear, actionable insights that support informed, data-driven decisions. I have hands-on experience using SQL, Power BI, Excel and Power Query to analyze datasets, uncover trends, and build interactive dashboards that communicate findings clearly.
+I'm John Ubi, a Certified Data Analyst passionate about turning raw, complex data into clear, actionable insights that support informed, data driven decisions. I have hands-on experience using SQL, Power BI, Excel and Power Query to analyze datasets, uncover trends, and build interactive dashboards that communicate findings clearly.
 
-My focus is on creating data-driven solutions that make information easier to understand and support better business decisions. I enjoy working with real-world datasets, exploring different business problems, and turning data into meaningful insights that can be put to use.
+My focus is on creating data driven solutions that make information easier to understand and support better business decisions. I enjoy working with real-world datasets, exploring different business problems, and turning data into meaningful insights that can be put to use.
 
 I'm also committed to continuous learning, strengthening my analytical skills, and growing beyond my current capabilities.
 
@@ -80,7 +80,7 @@ A Power BI analysis exploring customer demographics, ordering behavior, customer
 
 ## 🌐 Let's Connect
 
-I'm open to opportunities where I can apply my analytical skills, continue learning, and contribute to data-driven decision-making.
+I'm open to opportunities where I can apply my analytical skills, continue learning, and contribute to data driven decision making.Have a role, project, or dataset you'd like a second set of eyes on? I'd love to hear from you.
 
 [![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://johnubi.vercel.app)
 
