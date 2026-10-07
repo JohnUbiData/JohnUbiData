@@ -20,6 +20,23 @@ I'm also committed to continuous learning, strengthening my analytical skills, a
 
 ## 📊 Data Analytics Projects
 
+🚚 Logistics Operations Performance Dashboard
+
+An interactive Power BI dashboard built to analyze logistics operations and uncover insights across fleet performance, financial performance, safety, and delivery.
+
+Tools: Power BI · Power Query · DAX
+
+Key areas analyzed:
+
+Fleet utilization and operational performance
+Revenue and profitability
+Fuel and operating costs
+Safety and injury incidents
+Delivery performance
+Maintenance and fleet efficiency
+
+🔗 View Project
+
 ### 🛒 E-commerce Sales Performance Dashboard
 
 An interactive Power BI dashboard built to analyze e-commerce sales performance and uncover trends across revenue, orders, customers, products, and referral sources.
