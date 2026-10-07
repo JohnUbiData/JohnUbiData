@@ -35,7 +35,7 @@ An interactive Power BI dashboard built to analyze logistics operations and unco
 * Delivery performance
 * Maintenance and fleet efficiency
 
-🔗 [View Project](https://github.com/JohnUbiData/logistics-operations-dashboard)
+🔗 [View Project](https://github.com/JohnUbiData/Logistics-Operations-Dashboard)
 
 ### 🛒 E-commerce Sales Performance Dashboard
 
