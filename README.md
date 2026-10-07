@@ -28,14 +28,14 @@ Tools: Power BI · Power Query · DAX
 
 Key areas analyzed:
 
-Fleet utilization and operational performance
-Revenue and profitability
-Fuel and operating costs
-Safety and injury incidents
-Delivery performance
-Maintenance and fleet efficiency
+* Fleet utilization and operational performance
+* Revenue and profitability
+* Fuel and operating costs
+* Safety and injury incidents
+* Delivery performance
+* Maintenance and fleet efficiency
 
-🔗 View Project
+🔗 [View Project](https://github.com/JohnUbiData/logistics-operations-dashboard)
 
 ### 🛒 E-commerce Sales Performance Dashboard
 
