@@ -55,7 +55,7 @@ An interactive Power BI dashboard built to analyze e-commerce sales performance 
 
 ---
 
-### 🍔 Online Food Ordering Analysis
+### 🍔 Online Food Ordering Report
 
 A Power BI analysis exploring customer demographics, ordering behavior, customer types, feedback, and other factors within an online food ordering dataset.
 
