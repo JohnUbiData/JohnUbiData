@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I'm John, a Data Analyst passionate about turning raw, complex data into clear, actionable insights that support informed, data driven decisions. I have hands-on experience using SQL, Power BI, Excel and Power Query to analyze datasets, uncover trends, and build interactive dashboards that communicate findings clearly.
+I'm a Data Analyst passionate about turning raw, complex data into clear, actionable insights that support informed, data driven decisions. I have hands-on experience using SQL, Power BI, Excel and Power Query to analyze datasets, uncover trends, and build interactive dashboards that communicate findings clearly.
 
 My focus is on creating data driven solutions that make information easier to understand and support better business decisions. I enjoy working with real-world datasets, exploring different business problems, and turning data into meaningful insights that can be put to use.
 
